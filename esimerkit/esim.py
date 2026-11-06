@@ -1,0 +1,3 @@
+nimi = "Matti"
+
+print(nimi)
